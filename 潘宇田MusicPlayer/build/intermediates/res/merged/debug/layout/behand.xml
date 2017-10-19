@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<RelativeLayout 
+    android:id="@+id/sd"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+       
+        >
+        <ImageView 
+            android:id="@+id/imgki"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="@drawable/touxiang"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="25dp"
+            
+            />
+        <TextView 
+            android:id="@+id/names"
+            android:layout_toRightOf="@id/imgki"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="点击登录"
+            android:layout_centerVertical="true"
+            
+            />
+            <TextView 
+            android:id="@+id/tx2"
+         
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="消息"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="25dp"
+            />
+            </RelativeLayout>
+ <LinearLayout 
+        android:id="@+id/ds"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sd"
+        android:orientation="horizontal"
+        >
+    <GridView
+        android:layout_marginTop="15dp"
+        android:id="@+id/ligride"
+        android:layout_width="wrap_content"
+        android:layout_height="350dp"
+        android:horizontalSpacing="10dp"
+        android:numColumns="3"
+        android:layout_marginLeft="2dp"
+        android:text="@string/hello_world"
+        android:verticalSpacing="10dp" >
+    </GridView>
+</LinearLayout>
+<RelativeLayout 
+    android:id="@+id/ef"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:layout_alignParentBottom="true"
+    android:gravity="center"
+    >
+<TextView 
+    android:layout_below="@id/ds"
+    android:id="@+id/se"
+    
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_centerHorizontal="true"
+    android:text="设置"
+    
+    />
+<TextView 
+    android:layout_below="@id/ds"
+    android:id="@+id/fan"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+   android:layout_toLeftOf="@id/se"
+    android:layout_marginRight="35dp"
+    android:text="反馈"
+    />
+<TextView 
+    android:layout_below="@id/ds"
+    android:id="@+id/tui"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_toRightOf="@id/se"
+    android:layout_marginLeft="35dp"
+    android:text="退出"
+    
+    
+    />
+</RelativeLayout>
+</RelativeLayout>

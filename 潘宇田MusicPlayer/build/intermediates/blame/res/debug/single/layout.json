@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\kulayout.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\kulayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\mainlayout.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\mainlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\mylayout.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\mylayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\group.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\group.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\twogridlayout.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\twogridlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\listkulatout.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\listkulatout.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\gridchild.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\gridchild.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\activity_my.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\registerlayout.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\registerlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\dae.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\dae.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\musiclistfragment.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\musiclistfragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\solayout.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\solayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\adapter.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\child.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\child.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\animator.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\animator.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\musiclovefragment.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\musiclovefragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\controller.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\exchild.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\exchild.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\behand.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\behand.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\loginlayout.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\loginlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\gridkuchild.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\gridkuchild.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\threadgridlayout.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\threadgridlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\res\\merged\\debug\\layout\\bolayout.xml",
+        "source": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\layout\\bolayout.xml"
+    }
+]

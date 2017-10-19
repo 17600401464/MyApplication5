@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:gravity="center_horizontal">
+
+  <RelativeLayout
+      android:layout_width="match_parent"
+      android:background="#7FFFD4"
+      android:layout_height="171dp">
+
+    <com.example.customview.CheckSwitchButton
+        android:id="@+id/myview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="82.0dip"
+        android:layout_height="82.0dip"
+
+        android:layout_centerVertical="true"
+        android:contentDescription="@null"
+        app:srcCompat="@mipmap/ic_launcher" />
+
+
+    <com.example.myapplication.CircularImage
+        android:id="@+id/cover_user_photo"
+        android:layout_width="79dp"
+        android:layout_height="74.0dip"
+        android:layout_alignStart="@+id/imageView5"
+        android:layout_centerVertical="true"
+        android:background="@mipmap/ic_launcher"
+        app:srcCompat="@mipmap/ic_launcher" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="18dp"
+        android:layout_toEndOf="@+id/imageView5"
+        android:text="更改头像" />
+
+  </RelativeLayout>
+  <com.example.myapplication.SuperSwipeRefreshLayout
+      android:id="@+id/swipe_refreshe"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+  <com.yydcdut.sdlv.SlideAndDragListView
+      android:id="@+id/lv_edit"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:divider="@android:color/black"
+
+      android:dividerHeight="0.5dip"
+      android:paddingLeft="8dip"
+      android:paddingRight="8dip">
+  </com.yydcdut.sdlv.SlideAndDragListView>
+</com.example.myapplication.SuperSwipeRefreshLayout>
+</LinearLayout>

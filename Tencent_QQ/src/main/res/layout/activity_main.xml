@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.example.myapplication.MainActivity">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_top"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:background="#0080FF"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="消息"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:layout_gravity="center"
+            android:id="@+id/toolbar_title" />
+
+
+    </android.support.v7.widget.Toolbar>
+
+    <LinearLayout
+        android:id="@+id/xialin"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal">
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_height="fill_parent">
+            <ImageView
+
+                android:id="@+id/xiaoxi"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerHorizontal="true"
+                android:background="@mipmap/ic_launcher"/>
+            <TextView
+                android:id="@+id/txaioxi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="消息"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@id/xiaoxi"
+                android:textSize="15sp"/>
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_height="fill_parent">
+            <ImageView
+
+                android:id="@+id/lianxi"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerHorizontal="true"
+                android:background="@mipmap/ic_launcher"/>
+            <TextView
+                android:id="@+id/tlianxi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="联系"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@id/lianxi"
+                android:textSize="15sp"/>
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_height="fill_parent">
+            <ImageView
+
+                android:id="@+id/dongtai"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerHorizontal="true"
+                android:background="@mipmap/ic_launcher"/>
+            <TextView
+                android:id="@+id/tdongtai"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="动态"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@id/dongtai"
+                android:textSize="15sp"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+    <RelativeLayout
+        android:id="@+id/fragment"
+        android:layout_width="fill_parent"
+        android:layout_above="@id/xialin"
+        android:layout_below="@id/toolbar_top"
+        android:layout_height="fill_parent"></RelativeLayout>
+    <com.example.myapplication.CircularImage
+        android:id="@+id/cover_user_photo"
+        android:layout_width="35dip"
+        android:layout_height="35dip"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"/>
+
+</RelativeLayout>

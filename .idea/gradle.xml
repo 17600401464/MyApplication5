@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Android_day01_toolbar" />
+            <option value="$PROJECT_DIR$/Imageimport" />
+            <option value="$PROJECT_DIR$/MonthProject" />
+            <option value="$PROJECT_DIR$/Refreshproject" />
+            <option value="$PROJECT_DIR$/Sideproject" />
+            <option value="$PROJECT_DIR$/SlideAndDragListView" />
+            <option value="$PROJECT_DIR$/Tencent_QQ" />
+            <option value="$PROJECT_DIR$/Test_panyutian" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/demo" />
+            <option value="$PROJECT_DIR$/lib" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/lrucacheanddisk" />
+            <option value="$PROJECT_DIR$/myasynchttp" />
+            <option value="$PROJECT_DIR$/myimageloader" />
+            <option value="$PROJECT_DIR$/mynohttp" />
+            <option value="$PROJECT_DIR$/myokhttp" />
+            <option value="$PROJECT_DIR$/myslidingmenu" />
+            <option value="$PROJECT_DIR$/myswiperefreshlayout" />
+            <option value="$PROJECT_DIR$/myxutils" />
+            <option value="$PROJECT_DIR$/picassoandglide" />
+            <option value="$PROJECT_DIR$/sdlv" />
+            <option value="$PROJECT_DIR$/testView" />
+            <option value="$PROJECT_DIR$/xUtils" />
+            <option value="$PROJECT_DIR$/xutilsdownload2" />
+            <option value="$PROJECT_DIR$/潘宇田MusicPlayer" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

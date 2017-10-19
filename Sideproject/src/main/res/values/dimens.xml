@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="slv_item_height">66dip</dimen>
+    <dimen name="slv_item_height2">120dip</dimen>
+
+    <dimen name="slv_item_bg_btn_width">80dip</dimen>
+    <dimen name="slv_item_bg_btn2_width">60dip</dimen>
+    <dimen name="slv_item_bg_btn_width_img">100dip</dimen>
+</resources>

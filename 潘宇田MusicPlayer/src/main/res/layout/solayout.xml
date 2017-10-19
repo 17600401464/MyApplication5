@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <ScrollView 
+        android:id="@+id/we"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        >
+        <LinearLayout 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            
+            >
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        
+        
+        >
+        <ImageView 
+            android:id="@+id/txto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/touxiang"
+            />
+        
+        <TextView 
+            android:id="@+id/namee"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/txto"
+            android:layout_centerVertical="true"
+            android:text="等你回心"
+            />
+        <Button 
+            android:id="@+id/dian"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="点歌"
+            android:background="#008AD4"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:textColor="#FFFFFF"
+            />
+         </RelativeLayout>
+       <GridView
+        android:id="@+id/dgrid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:horizontalSpacing="10dp"
+        android:numColumns="3"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/hello_world"
+        android:verticalSpacing="10dp" >
+    </GridView>
+    <TextView
+    android:id="@+id/remen"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:text="热门作品" 
+    android:textSize="20sp"/>
+     <GridView
+        android:id="@+id/regride"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:horizontalSpacing="10dp"
+        android:numColumns="3"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/hello_world"
+        android:verticalSpacing="10dp" >
+    </GridView>
+          <TextView
+    android:id="@+id/tuhao"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:text="土豪榜" 
+    android:textSize="20sp"/>
+   
+    <GridView
+        android:id="@+id/tugride"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:horizontalSpacing="10dp"
+        android:numColumns="3"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/hello_world"
+        android:verticalSpacing="10dp" >
+    </GridView>
+    <android.support.v4.view.ViewPager
+        android:id="@+id/paiew"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        />
+    </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

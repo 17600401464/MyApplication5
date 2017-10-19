@@ -1,0 +1,3 @@
+include ':app', ':sdlv', ':SlideAndDragListView', ':Imageimport', ':lib', ':myslidingmenu', ':library', ':demo', ':Tencent_QQ', ':MonthProject', ':Refreshproject', ':Sideproject', ':myswiperefreshlayout', ':Android_day01_toolbar', ':xUtils', ':myxutils', ':xutilsdownload2', ':mynohttp', ':myokhttp', ':myasynchttp', ':lrucacheanddisk', ':myimageloader', ':picassoandglide', ':Test_panyutian'
+include ':潘宇田MusicPlayer'
+include ':testView'

@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal" 
+        android:gravity="center"
+         android:background="#38A7F0">
+        <TextView 
+            android:id="@+id/btns1"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:text="我的"
+            android:layout_weight="1"
+           android:textColor="#FFFFFF"
+           android:gravity="center"
+            />
+        <TextView 
+            android:id="@+id/btns2"
+            android:layout_height="wrap_content"
+            android:text="乐库"
+             android:layout_width="0dp"
+            android:layout_weight="1"
+           android:textColor="#FFFFFF"
+            android:gravity="center"
+            />
+          <TextView 
+            android:id="@+id/btns3"
+            android:layout_height="wrap_content"
+            android:text="直播"
+             android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textColor="#FFFFFF"
+             android:gravity="center"
+            />
+           <TextView
+            android:id="@+id/btns4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+             android:gravity="center"
+            android:text="唱歌" 
+            android:layout_marginBottom="0dp"
+            android:textColor="#FFFFFF"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+       
+
+    </LinearLayout>
+
+</LinearLayout>

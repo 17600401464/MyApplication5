@@ -1,0 +1,163 @@
+[
+    {
+        "outputFile": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 57,
+                    "endOffset": 1145
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1150,
+                    "endColumn": 55,
+                    "endOffset": 1201
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1206,
+                    "endColumn": 42,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endColumn": 52,
+                    "endOffset": 1297
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1302,
+                    "endColumn": 51,
+                    "endOffset": 1349
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 51,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1354,
+                    "endColumn": 52,
+                    "endOffset": 1402
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 52,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1407,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1693
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1698,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1853
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\AndroidStudioProjects\\MyApplication5\\潘宇田MusicPlayer\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

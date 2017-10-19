@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:toolbar="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_tops"
+        android:layout_height="50dp"
+        android:layout_width="match_parent"
+        android:background="#488FF9"
+
+        android:layout_alignParentTop="true"
+
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="消息"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+
+        android:layout_gravity="center"
+        android:id="@+id/toolbar_title" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:layout_marginLeft="0dp"
+            android:textColor="@android:color/white"
+            android:text="返回" />
+
+    </android.support.v7.widget.Toolbar>
+
+
+        <LinearLayout
+            android:id="@+id/shuru"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal">
+            <EditText
+                android:id="@+id/edit"
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:layout_weight="10"/>
+            <Button
+                android:id="@+id/sent"
+                android:layout_width="62dp"
+                android:layout_height="45dp"
+                android:layout_weight="0.35"
+                android:text="发送"/>
+
+        </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal"
+        android:layout_below="@+id/toolbar_tops"
+        android:layout_above="@id/shuru">
+    </LinearLayout>
+
+
+</RelativeLayout>
